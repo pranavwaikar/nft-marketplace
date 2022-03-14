@@ -1,0 +1,4 @@
+Create a metamask local account & you can store your local account key here - 
+normal green monster supply issue case head melt axis robust disagree weasel.
+
+Your private key should go in .secret file for the wallet.
